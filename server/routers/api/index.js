@@ -1,0 +1,11 @@
+let express = require('express');
+let router = express.Router();
+let home=require('./home');
+let join=require('./join');
+let profile=require('./profile');
+let rank=require('./rank');
+home(router);
+join(router);
+profile(router);
+rank(router);
+module.exports=router;
