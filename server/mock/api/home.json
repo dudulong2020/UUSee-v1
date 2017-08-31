@@ -1,17 +1,92 @@
 [
   {
-    "image":"",
-    "title":"",
-    "people":"",
+    "image":"https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2017/0828/201708281614362862.jpg",
+    "title":"111111111111",
+    "people":"1000",
     "user": {
-      "userName":"",
+      "userName":"11",
       "passWord":"",
       "UID":"",
       "Tel":"",
       "e-mail":""
     },
-    "type":"",
-    "state":"",
+    "type":["游戏","王者荣耀"],
+    "state":"0",
+    "startTime":""
+  },
+  {
+    "image":"https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2017/0828/201708281614362862.jpg",
+    "title":"111111111111",
+    "people":"1000",
+    "user": {
+      "userName":"11",
+      "passWord":"",
+      "UID":"",
+      "Tel":"",
+      "e-mail":""
+    },
+    "type":["游戏","王者荣耀"],
+    "state":"0",
+    "startTime":""
+  },
+  {
+    "image":"https://staticlive.douyucdn.cn/upload/signs/201704181708353749.jpg",
+    "title":"2222222222222",
+    "people":"2000",
+    "user": {
+      "userName":"22",
+      "passWord":"",
+      "UID":"",
+      "Tel":"",
+      "e-mail":""
+    },
+    "type":["娱乐","户外"],
+    "state":"0",
+    "startTime":""
+  },
+  {
+    "image":"https://staticlive.douyucdn.cn/upload/signs/201704181708353749.jpg",
+    "title":"2222222222222",
+    "people":"2000",
+    "user": {
+      "userName":"22",
+      "passWord":"",
+      "UID":"",
+      "Tel":"",
+      "e-mail":""
+    },
+    "type":["娱乐","户外"],
+    "state":"0",
+    "startTime":""
+  },
+  {
+    "image":"https://staticlive.douyucdn.cn/upload/signs/201706231329534570.jpg",
+    "title":"333333333333333",
+    "people":"3000",
+    "user": {
+      "userName":"333",
+      "passWord":"",
+      "UID":"",
+      "Tel":"",
+      "e-mail":""
+    },
+    "type":["赛事","奥运会"],
+    "state":"0",
+    "startTime":""
+  },
+  {
+    "image":"https://staticlive.douyucdn.cn/upload/signs/201706231329534570.jpg",
+    "title":"333333333333333",
+    "people":"3000",
+    "user": {
+      "userName":"333",
+      "passWord":"",
+      "UID":"",
+      "Tel":"",
+      "e-mail":""
+    },
+    "type":["赛事","奥运会"],
+    "state":"0",
     "startTime":""
   }
 ]
