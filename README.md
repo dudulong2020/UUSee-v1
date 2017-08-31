@@ -111,7 +111,7 @@ git merge develop
 ## 我们的前端代码主要写在`src`文件夹下
 > 下面简单介绍下`src`下存放的每个文件夹的作用及规范
 - apis          统一放置接口，根据需要新建自己的文件，调用index.js中get，post方法，传入的接口参数只要写/api之后的，
-- -index.js     运用fetch获取数据，封装成get和post方法返回值是一个promise，不用操作
+- - index.js     运用fetch获取数据，封装成get和post方法返回值是一个promise，不用操作
 - components    组件的文件夹
 - - Wrap  有header和footer的页面的包裹层    --不建议操作
 - - MHeader     公共头部    -- 目前没有写
@@ -123,10 +123,10 @@ git merge develop
 - main          入口文件文件夹
 - - main.js     项目入口文件
 - redux         redux相关内容文件夹
-- -actions      用于书写action代码，根据需要新建自己的文件输出派发行为函数组成的对象
-- -reducers     用于书写reucer代码，根据需要新建自己的文件输出reudcer函数，再在index.js文件中引入合并
-- -action-types 用于统一声明派发行为名称，根据自己需求添加
-- -store         创建仓库，不建议操作
+- - actions      用于书写action代码，根据需要新建自己的文件输出派发行为函数组成的对象
+- - reducers     用于书写reucer代码，根据需要新建自己的文件输出reudcer函数，再在index.js文件中引入合并
+- - action-types 用于统一声明派发行为名称，根据自己需求添加
+- - store         创建仓库，不建议操作
 
 
 ##template      模板文件夹
@@ -140,10 +140,10 @@ npm run dev-node
 - 监听端口 16666
 
 - mock          JSON文件文件夹
-- -api          放我们的JSON文件，假数据可以在这里创建JSON文件
+- - api          放我们的JSON文件，假数据可以在这里创建JSON文件
 - model         用于创建mongo表单，定义数据格式，根据需要新建自己的文件
 - routers       放置node代码
-- -api          我们的node代码写在这里
+- - api          我们的node代码写在这里
 
 首先
 根据需求新建自己的文件，格式如下
